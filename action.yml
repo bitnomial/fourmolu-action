@@ -1,5 +1,5 @@
-name: 'fourmolu-action'
-description: 'Check formatting of Haskell code with Fourmolu'
+name: 'old-fourmolu-action'
+description: 'Check formatting of Haskell code with Fourmolu.  This has been deprecated in favor of https://github.com/fourmolu/fourmolu-action'
 inputs:
   pattern:
     required: false
