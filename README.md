@@ -1,3 +1,5 @@
+**NOTE**: This has been _deprecated_ in favor of <https://github.com/fourmolu/fourmolu-action>.
+
 # Fourmolu action
 
 ![CI](https://github.com/bitnomial/fourmolu-action/workflows/CI/badge.svg?branch=master)
